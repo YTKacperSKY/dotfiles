@@ -176,6 +176,6 @@ setwall() {
     betterlockscreen -w
 }
 
-#neofetch
+neofetch
 
 
